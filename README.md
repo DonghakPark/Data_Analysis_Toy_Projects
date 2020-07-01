@@ -12,13 +12,13 @@
 ![fia](./image/fia.png)
 
 # Fia+uplc - Decision Tree
-![fia_d](./image/fia+uplc_test1.png)
+![fia_d2](./image/fia+uplc_test1.png)
 
 # Fia+uplc - Accuracy
-![fia](./image/fia=uplc.png)
+![fia2](./image/fia=uplc.png)
              
 # uplc - Decision Tree
-![fia_d](./image/uplc_total.png)
+![fia_d3](./image/uplc_total.png)
 
 # uplc - Accuracy
-![fia](./imag/uplc.png)
+![fia4](./image/uplc.png)
