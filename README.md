@@ -54,3 +54,34 @@
 |E2|제품을 구입할 때 주로 세일기간이나 할인 쿠폰을 이용한다.|
 |E3|제품을 구입하기 전에 여러 점포를 둘러보고 가격 비교한다.|
 |E4|고품질, 저가격 제품을 구매하기 위해 시간을 더 투자한다.|
+
+
+# Result : Decision Tree image
+## 중국 유학생
+![image1](./image/1)
+![image1](./image/2)
+![image1](./image/3)
+![image1](./image/4)
+![image1](./image/5)
+![image1](./image/6)
+## 중국 현지 학생
+![image1](./image/7)
+![image1](./image/8)
+![image1](./image/9)
+![image1](./image/10)
+![image1](./image/11)
+![image1](./image/12)
+## 한국 특성화 학교
+![image1](./image/13)
+![image1](./image/14)
+![image1](./image/15)
+![image1](./image/16)
+![image1](./image/17)
+![image1](./image/18)
+## 한국 대학생
+![image1](./image/19)
+![image1](./image/20)
+![image1](./image/21)
+![image1](./image/22)
+![image1](./image/23)
+![image1](./image/24)
