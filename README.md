@@ -59,29 +59,50 @@
 # Result : Decision Tree image
 ## 중국 유학생
 ![image1](./image/1.png)
+## 
 ![image1](./image/2.png)
+## 
 ![image1](./image/3.png)
+##
 ![image1](./image/4.png)
+##
 ![image1](./image/5.png)
+##
 ![image1](./image/6.png)
 ## 중국 현지 학생
 ![image1](./image/7.png)
+##
 ![image1](./image/8.png)
+##
 ![image1](./image/9.png)
+##
 ![image1](./image/10.png)
+##
 ![image1](./image/11.png)
+##
 ![image1](./image/12.png)
 ## 한국 특성화 학교
 ![image1](./image/13.png)
+##
 ![image1](./image/14.png)
+##
 ![image1](./image/15.png)
+## 
 ![image1](./image/16.png)
+##
 ![image1](./image/17.png)
+##
 ![image1](./image/18.png)
 ## 한국 대학생
 ![image1](./image/19.png)
+##
 ![image1](./image/20.png)
+##
 ![image1](./image/21.png)
+##
 ![image1](./image/22.png)
+##
 ![image1](./image/23.png)
+##
 ![image1](./image/24.png)
+##
