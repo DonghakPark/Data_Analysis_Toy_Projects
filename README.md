@@ -1,3 +1,5 @@
+# Research at Dankook University / IDA lab. / DonghakPark
+
 # Private project
 
 #  China_Korea_Shopping_Data_Processing
