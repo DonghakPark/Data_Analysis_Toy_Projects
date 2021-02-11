@@ -257,8 +257,8 @@ dmypy.json
 .prof
 
 # Directories #
-China_Korea_Shopping/no_upload/
-Dankook Dacon_Competition/no_upload/
-Depressive_Disorder/no_upload/
+/China_Korea_Shopping/no_upload/
+/Dankook Dacon_Competition/no_upload/
+/Depressive_Disorder/no_upload/
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,jupyternotebooks
